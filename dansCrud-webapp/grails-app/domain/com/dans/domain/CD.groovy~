@@ -1,0 +1,7 @@
+package com.dans.domain
+
+class CD {
+
+    static constraints = {
+    }
+}
